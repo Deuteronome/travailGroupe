@@ -12,3 +12,12 @@ header {
     color : black;
     padding : 4vh 0;
 }
+
+#thomas {
+    color: blueviolet;
+    padding: 10px;
+    background-color: black;
+    text-align: center;
+    font-size: 20px;
+    
+}

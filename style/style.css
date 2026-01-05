@@ -17,12 +17,21 @@ header {
 }
 
 
+#matheo {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin: 10px;
+}
+
 #olivier {
     padding : 10px;
     background-color: green;
     color:blue;
     border-radius: 5px;
     margin: 10px
+}
 
 #yohan {
     padding : 10px;
@@ -30,8 +39,7 @@ header {
     border-radius: 10px;
     color: aliceblue;
     margin: 10px;
-
-
-
-
 }
+
+
+

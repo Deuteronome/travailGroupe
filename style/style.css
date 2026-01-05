@@ -4,14 +4,18 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: rgb(161, 158, 158);
+}
 header {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: firebrick;
-    color : black;
+    background-color: rgb(143, 142, 142);
+    color : white;
     padding : 4vh 0;
 }
+
 
 #matheo {
     padding: 10px;
@@ -20,3 +24,22 @@ header {
     border-radius: 5px;
     margin: 10px;
 }
+
+#olivier {
+    padding : 10px;
+    background-color: green;
+    color:blue;
+    border-radius: 5px;
+    margin: 10px
+}
+
+#yohan {
+    padding : 10px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    color: aliceblue;
+    margin: 10px;
+}
+
+
+
